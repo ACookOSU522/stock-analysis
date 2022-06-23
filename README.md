@@ -6,6 +6,8 @@
 Orignal code run time for 2017 was 64,674.79 seconds, after code refactor efficiency was vastly improved and final run time was 0.1797 seconds.
 ![2017 Start time](https://user-images.githubusercontent.com/106544424/175424638-c7eb3bff-54aa-4efc-b2f0-1ed41e125d82.png)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/106544424/175424653-c8f8512c-0f64-4009-8774-1ad57e6fa9f7.png)
+
+
 *2017 Best stock performer is DQ at 199% return (fantastic investment results!), least successful stock was TERP at-7%.![2017 Stock Results](https://user-images.githubusercontent.com/106544424/175424693-dbaaab8d-b92d-49fe-9150-955a46980d56.png)
 
 
